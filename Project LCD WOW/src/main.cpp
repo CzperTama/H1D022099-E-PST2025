@@ -41,26 +41,6 @@ void loop() {
   if(nDevices == 0){
     Serial.println("Tidak ada alamat yang terdeteksi");
   } else{
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     Serial.println("Selesai");
   }
   delay(5000);
